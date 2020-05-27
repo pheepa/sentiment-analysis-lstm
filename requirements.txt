@@ -84,7 +84,7 @@ parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
 pigar==0.9.2
-Pillow==5.3.0
+pillow>=6.2.2
 pkginfo==1.5.0.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.4
@@ -122,7 +122,7 @@ six==1.14.0
 soupsieve==2.0
 TBB==0.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow>=1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
